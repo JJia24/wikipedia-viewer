@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/royalphalanx/pen/GEYrPr.
+A wikipedia viewer created as part of my learning in FreeCodeCamp. 
 
  
