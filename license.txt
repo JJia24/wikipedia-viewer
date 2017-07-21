@@ -1,10 +1,10 @@
 
 
 <!--
-Copyright (c) 2017 by Jon (http://codepen.io/royalphalanx/pen/GEYrPr)
+Copyright (c) 2017 by Jon (http://codepen.io/supremeplatypus/pen/GEYrPr)
 
 
-Fork of an original work by Jon (http://codepen.io/royalphalanx/pen/vZWOZr)
+Fork of an original work by Jon (http://codepen.io/supremeplatypus/pen/vZWOZr)
 
 
 
