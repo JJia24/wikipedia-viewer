@@ -23,7 +23,7 @@ $("#searchButton").click(function(event) {
     url:url,
     dataType:'jsonp',
     success:function(response){
-      console.log(response);
+      $("#output").html("");
       //array structure is [searchTerm],[title],[desc],[link]
      $("#output").append("<p>Results for " +response[0] +":</p>");
      for (i=0;i<response[1].length;i++){

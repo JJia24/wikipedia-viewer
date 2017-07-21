@@ -18,3 +18,7 @@ h1{
 #random{
   margin-top:10px;
 }
+
+li{
+  list-style-type:none;
+}
